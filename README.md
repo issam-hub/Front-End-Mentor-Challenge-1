@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/issam-hub/Front-End-Mentor-Challenge-1
+- Live Site URL: https://issam-hub.github.io/Front-End-Mentor-Challenge-1/
 
 ## My process
 
